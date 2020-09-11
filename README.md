@@ -1,5 +1,5 @@
 # coffebar
-coffebot
-
+moderator bor 
+funny bot 
 
 
